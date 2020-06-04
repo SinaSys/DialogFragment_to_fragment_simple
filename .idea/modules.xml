@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DialogFragmentFragment.iml" filepath="$PROJECT_DIR$/DialogFragmentFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogFragment_to_fragment_simple.iml" filepath="$PROJECT_DIR$/DialogFragment_to_fragment_simple.iml" group="DialogFragment_to_fragment_simple" />
+      <module fileurl="file://$PROJECT_DIR$/app/DialogFragment_to_fragment_simple-app.iml" filepath="$PROJECT_DIR$/app/DialogFragment_to_fragment_simple-app.iml" group="DialogFragment_to_fragment_simple/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
